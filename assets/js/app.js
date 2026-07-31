@@ -8,10 +8,10 @@ const STORAGE_PASSWORD = 'adminPassword'; // Contraseña encriptada
 
 // 🔐 CONTRASEÑAS INDEPENDIENTES POR MÓDULO (CÁMBIALAS AQUÍ - MÁXIMO 20 CARACTERES)
 // Ya NO comparten contraseña con el login principal ni entre sí.
-const PASSWORD_REGISTRO = 'admin11';        // ← Contraseña del módulo Registro
-const PASSWORD_TRANSFERENCIAS = 'admin44';  // ← Contraseña del módulo Transferencias
-const PASSWORD_TOTALES = 'admin33';         // ← Contraseña del módulo Totales
-const PASSWORD_INVENTARIO = 'admin22';      // ← Contraseña del módulo Inventario
+const PASSWORD_REGISTRO = 'empresa2';        // ← Contraseña del módulo Registro
+const PASSWORD_TRANSFERENCIAS = 'empresa4';  // ← Contraseña del módulo Transferencias
+const PASSWORD_TOTALES = 'empresa3';         // ← Contraseña del módulo Totales
+const PASSWORD_INVENTARIO = 'empresa2';      // ← Contraseña del módulo Inventario
 
 // Mapa de vista -> contraseña, para no repetir lógica
 const MODULE_PASSWORDS = {
