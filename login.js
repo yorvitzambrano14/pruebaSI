@@ -8,8 +8,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // ✅ CREDENCIALES - CAMBIA AQUÍ
     const CREDENTIALS = {
-        username: 'admin',
-        password: 'admin123'
+        username: 'empresa',
+        password: 'empresa1'
     };
 
     form.addEventListener('submit', function(e) {
